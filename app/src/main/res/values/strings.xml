@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project Man</string>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navgation_drawer_close">close navigation</string>
+   <string name="action_search">Search</string>
+    <string name="action_delete">Delete</string>
+    <string name="nav_item_user">User</string>
+    <string name="nav_item_project">Project</string>
+    <!-- Navigation drawer item labels -->
+    <string-array name="nav_drawer_label">
+      <item>@string/nav_item_user</item>
+      <item>@string/nav_item_project</item>
+    </string-array>
+    
+    <string name="title_user">User</string>
+    <string name="title_project">Project</string>
+
+
+</resources>
